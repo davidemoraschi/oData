@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\bin\Debug\Microsoft.Data.Services.Toolkit.Tests.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\bin\Debug\Microsoft.Data.Services.Toolkit.Tests.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\bin\Debug\Microsoft.Data.Services.Toolkit.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\bin\Debug\Moq.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\bin\Debug\Microsoft.Data.Services.Toolkit.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\bin\Debug\Moq.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\bin\Debug\Moq.xml
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\obj\Debug\Microsoft.Data.Services.Toolkit.Tests.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit.Tests\obj\Debug\Microsoft.Data.Services.Toolkit.Tests.pdb

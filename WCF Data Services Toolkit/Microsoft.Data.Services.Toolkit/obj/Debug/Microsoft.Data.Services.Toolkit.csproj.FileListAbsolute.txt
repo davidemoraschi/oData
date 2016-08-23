@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit\bin\Debug\Microsoft.Data.Services.Toolkit.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit\bin\Debug\Microsoft.Data.Services.Toolkit.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit\obj\Debug\Microsoft.Data.Services.Toolkit.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\oData\WCF Data Services Toolkit\Microsoft.Data.Services.Toolkit\obj\Debug\Microsoft.Data.Services.Toolkit.pdb
